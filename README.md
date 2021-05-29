@@ -5,7 +5,7 @@ search feature to search for cities and displays the city name, date, temperatur
 
 # Project
 
-The project is complete and has been deployed using firebase.
+The project is complete and has been deployed using firebase. <br><br>
 The link to the project is: https://my-weather-app-2f46c.web.app
 
 # Citations
