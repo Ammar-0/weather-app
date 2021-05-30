@@ -12,8 +12,8 @@ The link to the project is: https://my-weather-app-2f46c.web.app
 
 1. Install nodejs from [here](https://nodejs.org/en/)
 2. Clone the repository to your system
-3. Open the terminal in the folder and run npm install
-4. Start the server using npm start
+3. Open the terminal in the folder and run >npm install
+4. Start the server using >npm start
 5. View the app locally on http://localhost:3000  
 
 
